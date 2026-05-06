@@ -15,11 +15,11 @@ Copy this file to <code style="color:#111827;background:#ddd6fe;padding:2px 4px;
 
 | Field | Value |
 |---|---|
-| Name | TODO |
-| Roll Number | TODO |
-| GitHub Repository URL | TODO |
-| Resource Group | `rg-sp26-TODO` |
-| Assigned Region | TODO: `uaenorth` or `ukwest` |
+| Name | Muhammad Junaid |
+| Roll Number | 27100452 |
+| GitHub Repository URL | https://github.com/Junaid452/CS487-PA4 |
+| Resource Group | `rg-sp26-27100452` |
+| Assigned Region | `ukwest` |
 
 ## Evidence Rules
 
