@@ -298,7 +298,7 @@ Description: The UI correctly displays a rejection message, and no ACI is spawne
 
 ### Evidence 8.1: Architecture Diagram
 
-TODO: Embed your architecture diagram from `docs/`.
+TODO: Embed your architecture diagram from `![Architecture Diagram](docs/architecture_diagram.png)`.
 
 Description: It shows GitHub, App Service, Durable Function, AKS, ACI, Blob Storage, ACR, and IAM.
 
